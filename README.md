@@ -22,10 +22,4 @@ The Loans Management System is a Java-based application designed to streamline t
 - **Customer.java:** Class representing bank customers and their associated loans.
 - **XYZBank.java:** Main application class that manages user interactions and system functionality.
 
-## Getting Started
-To run the Loans Management System, follow these steps:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [your-repo-url]
-   cd LoansManagementSystem
